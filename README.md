@@ -1,8 +1,8 @@
 Игра Pacman на Python с использованием библиотеки SuperWires
+
+
 ![image](https://github.com/Timmn3/Pacman/assets/90189283/3f88417d-ebdc-45a1-b4b0-a0df9c8dcbc2)
 
-
-Uploading video_2024-05-06_21-14-30.mp4…
 
 
 Описание
