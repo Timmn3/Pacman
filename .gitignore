@@ -1,0 +1,49 @@
+# Секреты и конфиги
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+cookies*
+*.session
+state/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Логи и временное
+logs/
+*.log
+tmp/
+temp/
+*.db
+*.sqlite3
+downloads/
+screenshots/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.claude/
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Node (для fullstack-проектов)
+node_modules/
+dist/
+build/
+.next/
